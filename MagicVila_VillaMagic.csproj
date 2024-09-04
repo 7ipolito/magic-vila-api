@@ -18,4 +18,7 @@
     <Folder Include="Models\Dto\" />
     <Folder Include="Data\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="MagicVila.csproj" />
+  </ItemGroup>
 </Project>
