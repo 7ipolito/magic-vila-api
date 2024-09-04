@@ -35,3 +35,9 @@
 /Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/obj/Debug/net7.0/MagicVila_VillaMagic.MvcApplicationPartsAssemblyInfo.cs
 /Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/obj/Debug/net7.0/MagicVila_VillaMagic.csproj.CopyComplete
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/hipolito/Projects/MagicVila/MagicVila_VillaMagic/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
