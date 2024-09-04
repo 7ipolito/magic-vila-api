@@ -10,4 +10,12 @@
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.3" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Models\Dto\" />
+    <None Remove="Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\Dto\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
 </Project>
